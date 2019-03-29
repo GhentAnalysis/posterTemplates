@@ -1,0 +1,15 @@
+    \def\ugentBoxWidth{33cm}
+    \node[boxStyle, text width=\ugentBoxWidth, anchor=north east, minimum height=\firstRowHeight] (ugentBox) at (cmsBox.north -| subjects.east){
+       \begin{minipage}{\ugentBoxWidth}
+          The Ghent CMS team is involved in several analyses at CMS, which include supersymmetry searches and top quark physics, and plans to search for Heavy Majorana neutrinos.
+          Master students are welcome to join in one of our analyses groups where they get the opportunity to explore the large amounts of new data.
+          Under the daily supervision of our CMS team, you will acquire the necessary knowledge to identify physics objects, select the events of interest and to use big data analysis techniques.
+          You get the opportunity to gain experience in an international collaboration, and present/discuss results at CERN.
+          \begin{figure}
+             \includegraphics[width=15cm,trim=25 25 25 25,clip]{{particles}.png}           
+             \includegraphics[width=15cm,trim=25 25 25 25,clip]{{pf}.png}           
+          \end{figure}
+       \end{minipage}
+    };
+ %   \node[fancytitle, left=\titleOffset] at (ugentBox.north east) {Data analysis at CMS};
+

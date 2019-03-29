@@ -1,0 +1,22 @@
+    \def\subjectBoxWidth{80cm}
+    \def\cmsBoxWidth{110cm}
+    \def\middleRowHeight{12cm}
+    \node[boxStyle, text width=\subjectBoxWidth, anchor=north west, minimum height=\middleRowHeight] (photonBox) at  ($(cmsBox.south west)+(0,-1.5)$){
+        \centering
+        \begin{minipage}{20cm}
+        \includegraphics[height=11cm]{{gg}.png}
+        \end{minipage}
+        \hspace{2cm}
+        \begin{minipage}{30cm}
+         \small
+         The analysis of the 2015 data shows an interesting \textquotedblleft bump \textquotedblright in $M(\gamma\gamma$) spectrum that hints to a new particle with a mass of $\sim$750 GeV.
+         If  the upcoming data confirms this hint, a new era in the history of particle physics might begin
+         You can take part in this exciting journey with a master thesis work
+        \end{minipage}
+        \hspace{2cm}
+        \begin{minipage}{20cm}
+                \includegraphics[height=11cm]{{ggATLAS}.png}
+        \end{minipage}
+        };
+ %   \node[fancytitle, left=\titleOffset] at (cmsBox.north east) {The CMS detector at the LHC};
+
