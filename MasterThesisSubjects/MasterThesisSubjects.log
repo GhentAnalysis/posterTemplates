@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.10.12)  26 MAR 2019 12:39
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.10.12)  2 MAR 2020 16:14
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1500,20 +1500,20 @@ FP debug: upn: +++ result of upn-expression is "(2.80)"
 )) (./MasterThesisSubjects.aux)
 \openout1 = `MasterThesisSubjects.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1579,7 +1579,7 @@ e
 ))
 ABD: EveryShipout initializing macros
 \AtBeginShipoutBox=\box80
-Package hyperref Info: Link coloring OFF on input line 47.
+Package hyperref Info: Link coloring OFF on input line 48.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -1589,9 +1589,9 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count183
 )
-LaTeX Info: Redefining \ref on input line 47.
-LaTeX Info: Redefining \pageref on input line 47.
-LaTeX Info: Redefining \nameref on input line 47.
+LaTeX Info: Redefining \ref on input line 48.
+LaTeX Info: Redefining \pageref on input line 48.
+LaTeX Info: Redefining \nameref on input line 48.
 
 (./MasterThesisSubjects.out) (./MasterThesisSubjects.out)
 \@outlinefile=\write6
@@ -1622,26 +1622,26 @@ Dictionary: translator-numbers-dictionary, Language: English
 orem-dictionary/translator-theorem-dictionary-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
 )
-LaTeX Info: Redefining \includegraphics on input line 47.
+LaTeX Info: Redefining \includegraphics on input line 48.
 
 (./MasterThesisSubjects.nav) <background.jpg, id=31, 3886.52pt x 2601.72pt>
 File: background.jpg Graphic file (type jpg)
 
 <use background.jpg>
-Package pdftex.def Info: background.jpg used on input line 92.
+Package pdftex.def Info: background.jpg used on input line 93.
 (pdftex.def)             Requested size: 4267.91338pt x 2857.01794pt.
  <LHC.jpg, id=32, 1947.275pt x 748.7975pt>
 File: LHC.jpg Graphic file (type jpg)
  <use LHC.jpg>
-Package pdftex.def Info: LHC.jpg used on input line 92.
+Package pdftex.def Info: LHC.jpg used on input line 93.
 (pdftex.def)             Requested size: 2560.74802pt x 654.70749pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 92--92
+Underfull \hbox (badness 10000) in paragraph at lines 93--93
  [][][][][]\OT1/cmss/bx/n/50.16 Prof. D. Dobur
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 92--92
+Underfull \hbox (badness 10000) in paragraph at lines 93--93
  []\OT1/cmss/m/n/50.16 ddidar@cern.ch[]
  []
 
@@ -1721,304 +1721,291 @@ LaTeX Font Info:    Calculating math sizes for size <34.83> on input line 21.
 ) <DeathStar2.jpg, id=38, 292.09125pt x 301.125pt>
 File: DeathStar2.jpg Graphic file (type jpg)
  <use DeathStar2.jpg>
-Package pdftex.def Info: DeathStar2.jpg used on input line 92.
+Package pdftex.def Info: DeathStar2.jpg used on input line 93.
 (pdftex.def)             Requested size: 569.05511pt x 586.70891pt.
 
 (./Subjects.tex
-LaTeX Font Info:    Calculating math sizes for size <16.8> on input line 30.
-
-Underfull \hbox (badness 10000) in paragraph at lines 25--37
-[]\OT1/cmss/m/n/16.8 The heav-i-est par-ti-cle in the Stan-dard Model is the to
-p quark. As such, its
+Underfull \hbox (badness 10000) in paragraph at lines 30--37
+\OT1/cmss/m/n/20.16 Flavour-changing neu-tral cur-rents (FCNC) are among the ra
+rest pro-cesses in the Stan-dard Model (SM). The probe of the
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 25--37
-\OT1/cmss/m/n/16.8 prop-er-ties are very sen-si-tive to the ex-is-tence of new 
-physics be-yond the SM.
+Underfull \hbox (badness 10000) in paragraph at lines 30--37
+\OT1/cmss/m/n/20.16 FCNC in-ter-ac-tions of a top quark with a Higgs bo-son rep
+-re-sents an ex-cel-lent probe of var-i-ous be-yond the SM the-o-ries. The
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 25--37
-\OT1/cmss/m/n/16.8 If we study top-quark pro-duc-tion in pro-cesses where they 
-ap-pear to-gether
+Underfull \hbox (badness 10000) in paragraph at lines 30--37
+\OT1/cmss/m/n/20.16 study in-cludes the search for the top quark FCNC de-cays i
+n the top quark pair pro-duc-tion pro-cess, as well as the probe of
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 25--37
-\OT1/cmss/m/n/16.8 with elec-troweak bosons, we get an ex-cel-lent han-dle on t
-he SM elec-troweak
+Underfull \hbox (badness 10000) in paragraph at lines 30--37
+\OT1/cmss/m/n/20.16 FCNC ef-fects in the sin-gle top as-so-ci-ated pro-duc-tion
+ with a Higgs bo-son. One of the tasks in this anal-y-sis is to de-velop an
+ []
+
+LaTeX Font Info:    Calculating math sizes for size <20.16> on input line 37.
+Package epstopdf Info: Source file: <tH_ttbar_mod.eps>
+(epstopdf)                    date: 2020-02-28 17:21:44
+(epstopdf)                    size: 156791 bytes
+(epstopdf)             Output file: <tH_ttbar_mod-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-02-28 17:23:34
+(epstopdf)                    size: 9139 bytes
+(epstopdf)             Command: <repstopdf --outfile=tH_ttbar_mod-eps-converted
+-to.pdf tH_ttbar_mod.eps>
+(epstopdf)             \includegraphics on input line 41.
+Package epstopdf Info: Output file is already uptodate.
+<tH_ttbar_mod-eps-converted-to.pdf, id=39, 438.63875pt x 246.9225pt>
+File: tH_ttbar_mod-eps-converted-to.pdf Graphic file (type pdf)
+
+<use tH_ttbar_mod-eps-converted-to.pdf>
+Package pdftex.def Info: tH_ttbar_mod-eps-converted-to.pdf used on input line 4
+1.
+(pdftex.def)             Requested size: 384.10959pt x 216.22995pt.
+Package epstopdf Info: Source file: <tH_mod.eps>
+(epstopdf)                    date: 2020-03-02 15:38:51
+(epstopdf)                    size: 33427 bytes
+(epstopdf)             Output file: <tH_mod-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-03-02 15:39:05
+(epstopdf)                    size: 7477 bytes
+(epstopdf)             Command: <repstopdf --outfile=tH_mod-eps-converted-to.pd
+f tH_mod.eps>
+(epstopdf)             \includegraphics on input line 47.
+Package epstopdf Info: Output file is already uptodate.
+
+<tH_mod-eps-converted-to.pdf, id=40, 817.0525pt x 450.68375pt>
+File: tH_mod-eps-converted-to.pdf Graphic file (type pdf)
+
+<use tH_mod-eps-converted-to.pdf>
+Package pdftex.def Info: tH_mod-eps-converted-to.pdf used on input line 47.
+(pdftex.def)             Requested size: 384.10959pt x 211.87639pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 58--69
+[]\OT1/cmss/bx/n/20.16 A study of dis-placed track-ing ef-fi-ciency us-ing neu-
+tral kaon de-cays in
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 25--37
-\OT1/cmss/m/n/16.8 sec-tor, as well as on top quark prop-er-ties. These prop-er
--ties can be mea-sured
+Underfull \hbox (badness 10000) in paragraph at lines 58--69
+\OT1/cmss/m/n/20.16 The CMS de-tec-tor at the CERN LHC was de-signed for the de
+-tec-tion and
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 25--37
-\OT1/cmss/m/n/16.8 us-ing a num-ber of pro-duc-tion modes and de-cay chan-nels.
- We pro-pose the-ses
+Underfull \hbox (badness 10000) in paragraph at lines 58--69
+\OT1/cmss/m/n/20.16 ac-cu-rate re-con-struc-tion of par-ti-cles emerg-ing di-re
+ctly from the proton-proton
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 25--37
-\OT1/cmss/m/n/16.8 on mea-sur-ing the rates of sin-gle top quark or top-quark p
-air pro-duc-tion in
+Underfull \hbox (badness 10000) in paragraph at lines 58--69
+\OT1/cmss/m/n/20.16 col-li-sions at the de-tec-tor cen-ter. How-ever, some ex-t
+en-sions to the stan-dard
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 25--37
-\OT1/cmss/m/n/16.8 as-so-ci-a-tion with $\OML/cmm/b/it/16.8 W$ \OT1/cmss/m/n/16
-.8 and $\OML/cmm/b/it/16.8 Z$ \OT1/cmss/m/n/16.8 bosons. The pro-duc-tion of a 
-sin-gle top quark in
+Underfull \hbox (badness 10000) in paragraph at lines 58--69
+\OT1/cmss/m/n/20.16 model of par-ti-cle physics in-clude un-de-tectable par-ti-
+cles that only de-cay to
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 25--37
-\OT1/cmss/m/n/16.8 com-bi-na-tion with a $\OML/cmm/b/it/16.8 Z$ \OT1/cmss/m/n/1
-6.8 bo-son was dis-cov-ered for the very first time last year by
+Underfull \hbox (badness 10000) in paragraph at lines 58--69
+\OT1/cmss/m/n/20.16 de-tectable par-ti-cles at a rel-a-tively large dis-tance f
+rom the de-tec-tor cen-ter. The
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 25--37
-\OT1/cmss/m/n/16.8 the Ghent CMS group, based on a par-tial Run II dataset. We 
-pro-pose a the-sis
+Underfull \hbox (badness 10000) in paragraph at lines 58--69
+\OT1/cmss/m/n/20.16 goal of this the-sis project is to quan-tify the ef-fi-cien
+cy of the CMS de-tec-tor for
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 25--37
-\OT1/cmss/m/n/16.8 project to help im-prove the ex-ist-ing anal-y-sis tech-niqu
-es in the con-text of a new
+Underfull \hbox (badness 10000) in paragraph at lines 58--69
+\OT1/cmss/m/n/20.16 this kind of so-called dis-placed ob-jects, us-ing a partly
+ data-driven tech-nique.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 25--37
-\OT1/cmss/m/n/16.8 anal-y-sis that will use the full Run 2 dataset for this hig
-h-profile mea-sure-ment.
- []
-
-LaTeX Font Info:    Calculating math sizes for size <20.16> on input line 42.
-<top.png, id=39, 2007.5pt x 1480.53125pt>
-File: top.png Graphic file (type png)
- <use top.png>
-Package pdftex.def Info: top.png used on input line 44.
-(pdftex.def)             Requested size: 256.0748pt x 188.83865pt.
-
-<top2.png, id=40, 602.25pt x 284.06125pt>
-File: top2.png Graphic file (type png)
- <use top2.png>
-Package pdftex.def Info: top2.png used on input line 46.
-(pdftex.def)             Requested size: 426.79134pt x 201.31212pt.
-
-<tZq2.png, id=41, 1192.455pt x 764.8575pt>
-File: tZq2.png Graphic file (type png)
- <use tZq2.png>
-Package pdftex.def Info: tZq2.png used on input line 50.
-(pdftex.def)             Requested size: 409.71689pt x 262.79074pt.
-
-<tZq.png, id=42, 722.7pt x 375.90437pt>
-File: tZq.png Graphic file (type png)
- <use tZq.png>
-Package pdftex.def Info: tZq.png used on input line 57.
-(pdftex.def)             Requested size: 512.14612pt x 266.3892pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 71--72
-[]\OT1/cmss/m/n/16.8 While searches for SUSY might be con-sid-ered as dark mat-
-ter searches, one can also look for di-rect pro-duc-tion of other pos-si-ble da
-rk mat-ter
- []
-
-<bc.jpg, id=43, 493.3632pt x 356.532pt>
-File: bc.jpg Graphic file (type jpg)
- <use bc.jpg>
-Package pdftex.def Info: bc.jpg used on input line 76.
-(pdftex.def)             Requested size: 275.61903pt x 199.16928pt.
-
-<DMdiagram.png, id=44, 320.44246pt x 248.17245pt>
-File: DMdiagram.png Graphic file (type png)
- <use DMdiagram.png>
-Package pdftex.def Info: DMdiagram.png used on input line 78.
-(pdftex.def)             Requested size: 257.18063pt x 199.16928pt.
-
-<dmed2.png, id=45, 367.1316pt x 283.7802pt>
-File: dmed2.png Graphic file (type png)
- <use dmed2.png>
-Package pdftex.def Info: dmed2.png used on input line 80.
-(pdftex.def)             Requested size: 257.6794pt x 199.16928pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 100--114
-[]\OT1/cmss/m/n/16.8 Only a few years ago, the No-bel prize was awarded for the
- dis-cov-ery of neu-trino os-cil-la-tions, a phe-nomenon strongly sug-gest-ing 
-that neu-tri-nos
+Underfull \hbox (badness 10000) in paragraph at lines 58--69
+\OT1/cmss/m/n/20.16 The fo-cus will be on the de-cay of the neu-tral K-meson to
+ two charged pi-ons.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 100--114
-\OT1/cmss/m/n/16.8 are in fact mas-sive par-ti-cles. Sev-eral ex-per-i-ments ha
-ve how-ever con-strained this mass to be ex-tremely small, be-low the eV scale.
- It might
+Underfull \hbox (badness 10000) in paragraph at lines 58--69
+\OT1/cmss/m/n/20.16 Since the K-meson it-self is in-vis-i-ble to the in-ner par
+t of the de-tec-tor and has a
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 100--114
-\OT1/cmss/m/n/16.8 be con-ceived as un-nat-u-ral that the Higgs mech-a-nism wou
-ld be re-spon-si-ble for their masses as the Yukawa cou-plings would have to be
- many
+Underfull \hbox (badness 10000) in paragraph at lines 58--69
+\OT1/cmss/m/n/20.16 rel-a-tively long life-time, its de-cay to two pi-ons yield
+s a sim-i-lar sig-na-ture as the
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 100--114
-\OT1/cmss/m/n/16.8 or-ders of mag-ni-tude smaller than those of the other SM pa
-r-ti-cles. By in-tro-duc-ing heavy ster-ile neu-tri-nos, in the SM, the mass of
- the left-
+Underfull \hbox (badness 10000) in paragraph at lines 58--69
+\OT1/cmss/m/n/20.16 ex-otic `be-yond stan-dard model` sce-nar-ios one is typ-i-
+cally in-ves-ti-gat-ing. Us-ing
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 100--114
-\OT1/cmss/m/n/16.8 handed neu-trino can be pushed down be-low the eV scale whil
-e re-tain-ing a Yukawa cou-pling con-stant sim-i-lar to those of other SM par-t
-i-cles.
+Underfull \hbox (badness 10000) in paragraph at lines 58--69
+\OT1/cmss/m/n/20.16 both sim-u-lated events and ac-tual data, we will try to me
+a-sure the ef-fi-ciency
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 100--114
-\OT1/cmss/m/n/16.8 This is known as the see-saw mech-a-nism. If they ex-ist in 
-na-ture, ster-ile neu-tri-nos might also be searched for in the LHC's proton-pr
-oton
+Underfull \hbox (badness 10000) in paragraph at lines 58--69
+\OT1/cmss/m/n/20.16 of CMS for mea-sur-ing dis-placed de-cays and es-ti-mate th
+e un-cer-tainty on this
+ []
+
+<displacedTracks.png, id=41, 760.8425pt x 619.31375pt>
+File: displacedTracks.png Graphic file (type png)
+
+<use displacedTracks.png>
+Package pdftex.def Info: displacedTracks.png used on input line 72.
+(pdftex.def)             Requested size: 332.89497pt x 270.97745pt.
+ <2017E_detector.pdf, id=42, 903.375pt x 903.375pt>
+File: 2017E_detector.pdf Graphic file (type pdf)
+
+<use 2017E_detector.pdf>
+Package pdftex.def Info: 2017E_detector.pdf used on input line 73.
+(pdftex.def)             Requested size: 332.89497pt x 332.89265pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 88--94
+\OT1/cmss/m/n/20.16 The ex-act mass gen-er-a-tion mech-a-nism still re-mains to
+ be an open ques-tion in par-ti-cle physics. The study of the Higgs
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 100--114
-\OT1/cmss/m/n/16.8 col-li-sions. $\OML/cmm/b/it/16.8 W$ \OT1/cmss/m/n/16.8 boso
-ns, which are co-pi-ously pro-duced at the LHC, may de-cay to a heavy ster-ile 
-neu-trino, due to it's cou-pling to the neu-trino,
+Underfull \hbox (badness 10000) in paragraph at lines 88--94
+\OT1/cmss/m/n/20.16 bo-son pro-duc-tion rep-re-sents the di-rect probe of the H
+iggs bo-son cou-plings to other fun-da-men-tal con-stituents of na-ture. Any
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 100--114
-\OT1/cmss/m/n/16.8 and a charged lep-ton. This leads to char-ac-ter-is-tic sig-
-na-tures, which can be ef-fi-ciently dis-tin-guished from known Stan-dard Model
- pro-cesses.
+Underfull \hbox (badness 10000) in paragraph at lines 88--94
+\OT1/cmss/m/n/20.16 de-vi-a-tions in the mea-sured val-ues of these pa-ram-e-te
+rs from the SM pre-dic-tions would di-rectly point to the new physics
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 100--114
-\OT1/cmss/m/n/16.8 No dis-cov-ery was made dur-ing the LHC Run I, nor with the 
-first data from Run II, col-lected in 2016 at a center-of-mass en-ergy of 13 Te
-V.
+Underfull \hbox (badness 10000) in paragraph at lines 88--94
+\OT1/cmss/m/n/20.16 phe-nom-ena. The study is pro-posed for the anal-y-sis of t
+he CMS de-tec-tor data to re-dis-cover the Higgs bo-son in one of
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 100--114
-\OT1/cmss/m/n/16.8 But the in-crease in in-te-grated lu-mi-nos-ity from the 201
-7 and 2018 data tak-ing, along with re-fined anal-y-sis tech-niques and the ad-
-di-tion of new
+Underfull \hbox (badness 10000) in paragraph at lines 88--94
+\OT1/cmss/m/n/20.16 its pro-duc-tion pro-cesses by ad-di-tion-ally in-volv-ing 
+Ma-chine Learn-ing tech-niques to fur-ther boost the fi-nal sen-si-tiv-ity in t
+he
  []
 
-<majoranaDiagram.pdf, id=46, 348.30125pt x 188.705pt>
-File: majoranaDiagram.pdf Graphic file (type pdf)
+<higgs.png, id=43, 1366.10374pt x 1258.7025pt>
+File: higgs.png Graphic file (type png)
+ <use higgs.png>
+Package pdftex.def Info: higgs.png used on input line 96.
+(pdftex.def)             Requested size: 401.43373pt x 369.88582pt.
 
-<use majoranaDiagram.pdf>
-Package pdftex.def Info: majoranaDiagram.pdf used on input line 116.
-(pdftex.def)             Requested size: 367.6138pt x 199.16928pt.
- <majoranaCartoon.png, id=47, 642.4pt x 401.5pt>
-File: majoranaCartoon.png Graphic file (type png)
+<higgs2.png, id=44, 3162.81625pt x 2318.6625pt>
+File: higgs2.png Graphic file (type png)
+ <use higgs2.png>
+Package pdftex.def Info: higgs2.png used on input line 97.
+(pdftex.def)             Requested size: 504.5166pt x 369.88582pt.
 
-<use majoranaCartoon.png>
-Package pdftex.def Info: majoranaCartoon.png used on input line 118.
-(pdftex.def)             Requested size: 318.68004pt x 199.16928pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 139--152
-[]\OT1/cmss/m/n/16.8 Among many the-o-ries go-ing be-yond the stan-dard model i
-s Su-per-sym-me-try (SUSY). It
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 139--152
-\OT1/cmss/m/n/16.8 can be used to ad-dress the prob-lem of dark mat-ter, and cu
-re the hi-er-ar-chy prob-lem
+Underfull \hbox (badness 10000) in paragraph at lines 106--117
+[]\OT1/cmss/bx/n/20.16 Enlightening the top quark: a study of the in-ter-ac-tio
+n of a top quark and a
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 139--152
-\OT1/cmss/m/n/16.8 that af-flicts the SM. SUSY is a space-time sym-me-try re-la
-t-ing fermions and bosons. In a
+Underfull \hbox (badness 10000) in paragraph at lines 106--117
+\OT1/cmss/m/n/20.16 The dis-tinc-tive prop-er-ties of the top quark put it in a
+ spe-cial place of the Stan-dard
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 139--152
-\OT1/cmss/m/n/16.8 su-per-sym-met-ric the-ory there are an equal num-ber of bos
-onic and fermionic de-grees of
+Underfull \hbox (badness 10000) in paragraph at lines 106--117
+\OT1/cmss/m/n/20.16 Model (SM). A pre-cise study of the strength of the in-ter-
+ac-tion of this par-ti-cle with
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 139--152
-\OT1/cmss/m/n/16.8 free-dom which nat-u-rally leads to can-cel-la-tions be-twee
-n the di-ver-gent mass cor-rec-tions to the
+Underfull \hbox (badness 10000) in paragraph at lines 106--117
+\OT1/cmss/m/n/20.16 other fun-da-men-tal con-stituents rep-re-sents an im-por-t
+ant test of the SM pre-dic-tions.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 139--152
-\OT1/cmss/m/n/16.8 Higgs bo-son's mass. Ev-ery fermion would there-fore have a 
-bosonic part-ner in SUSY mod-els
+Underfull \hbox (badness 10000) in paragraph at lines 106--117
+\OT1/cmss/m/n/20.16 The study of the pro-cesses with the pro-duc-tion of a top 
+quark in as-so-ci-a-tion with a
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 139--152
-\OT1/cmss/m/n/16.8 and vice versa. To achieve a can-cel-la-tion of the chi-ral 
-anomaly aris-ing from the fermionic
+Underfull \hbox (badness 10000) in paragraph at lines 106--117
+\OT1/cmss/m/n/20.16 pho-ton rep-re-sents a di-rect probe of the elec-troweak ch
+arge and in-ter-ac-tion cou-plings
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 139--152
-\OT1/cmss/m/n/16.8 part-ner of the Higgs, atleast one other scalar dou-blet is 
-re-quired, lead-ing to the pres-ence
+Underfull \hbox (badness 10000) in paragraph at lines 106--117
+\OT1/cmss/m/n/20.16 of the top quark, as well as pro-vides a han-dle to search 
+for var-i-ous new physics ef-fects.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 139--152
-\OT1/cmss/m/n/16.8 of 5 or more scalar Higgs bosons. In or-der to pro-tect the 
-pro-ton from de-cay-ing, R-parity
+Underfull \hbox (badness 10000) in paragraph at lines 106--117
+\OT1/cmss/m/n/20.16 The pro-posed anal-y-sis will cover the study of the kine-m
+atic prop-er-ties of the pro-cesses
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 139--152
-\OT1/cmss/m/n/16.8 con-ser-va-tion is in-tro-duced, lead-ing to the sta-bil-ity
- of the light-est su-per-sym-met-ric par-ti-cle. So
+Underfull \hbox (badness 10000) in paragraph at lines 106--117
+\OT1/cmss/m/n/20.16 with the pro-duc-tion of top quark pairs with one or more p
+ho-tons in the fi-nal state with
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 139--152
-
+Underfull \hbox (badness 10000) in paragraph at lines 106--117
+\OT1/cmss/m/n/20.16 the CMS de-tec-tor. The pos-si-ble tasks in-clude the study
+ of the pho-ton iden-ti-fi-ca-tion in
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 139--152
-\OT1/cmss/m/n/16.8 The dis-cov-ery of su-per-sym-met-ric par-ti-cles would mark
- a rev-o-lu-tion-ary leap in the field of
+Underfull \hbox (badness 10000) in paragraph at lines 106--117
+\OT1/cmss/m/n/20.16 data, as well as the de-vel-op-ment of the event se-lec-tio
+n cri-te-ria ex-ploit-ing the full event
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 139--152
-\OT1/cmss/m/n/16.8 par-ti-cle physics and our un-der-stand-ing of na-ture. Sev-
-eral searches, ap-proach-ing the prob-lem
+Underfull \hbox (badness 10000) in paragraph at lines 106--117
+\OT1/cmss/m/n/20.16 re-con-struc-tion. A po-ten-tial gain from the use of Ma-ch
+ine Learn-ing tech-niques will also
  []
 
-<iceSusy.png, id=48, 533.995pt x 711.65875pt>
-File: iceSusy.png Graphic file (type png)
- <use iceSusy.png>
-Package pdftex.def Info: iceSusy.png used on input line 162.
-(pdftex.def)             Requested size: 227.62204pt x 311.21445pt.
-)
-(./UgentBox.tex <particles.png, id=50, 722.7pt x 645.3711pt>
+<ttgamma.png, id=45, 819.06pt x 600.2425pt>
+File: ttgamma.png Graphic file (type png)
+ <use ttgamma.png>
+Package pdftex.def Info: ttgamma.png used on input line 120.
+(pdftex.def)             Requested size: 230.46574pt x 168.89105pt.
+) (./UgentBox.tex
+<particles.png, id=46, 722.7pt x 645.3711pt>
 File: particles.png Graphic file (type png)
-
-<use particles.png>
+ <use particles.png>
 Package pdftex.def Info: particles.png used on input line 5.
 (pdftex.def)             Requested size: 426.79134pt x 377.71935pt.
- <pf.png, id=52, 4015.0pt x 2909.87125pt>
+
+<pf.png, id=48, 4015.0pt x 2909.87125pt>
 File: pf.png Graphic file (type png)
  <use pf.png>
 Package pdftex.def Info: pf.png used on input line 6.
@@ -2084,22 +2071,22 @@ n-tary to the re-search
  []
 
 )
-Underfull \hbox (badness 10000) in paragraph at lines 92--92
+Underfull \hbox (badness 10000) in paragraph at lines 93--93
  [][][][][]\OT1/cmss/bx/n/20.16 Ghent CMS Group, Cam-pus Proef-tuin, N3, https:
 //epp.ugent.be/index.php/masterthesesubjects/[] 
  []
 
 
-Overfull \vbox (39.30719pt too high) detected at line 92
+Overfull \vbox (39.30719pt too high) detected at line 93
  []
 
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./LHC.jpg> <./CMS.jpg> <./
-iceSusy.png (PNG copy)> <./particles.png> <./pf.png> <./background.jpg> <./ed2.
-png> <./DeathStar2.jpg> <./top.png> <./top2.png> <./tZq2.png> <./tZq.png> <./bc
-.jpg> <./DMdiagram.png> <./dmed2.png> <./majoranaDiagram.pdf> <./majoranaCartoo
-n.png (PNG copy)>]
+particles.png> <./pf.png> <./background.jpg> <./ed2.png> <./DeathStar2.jpg> <./
+tH_ttbar_mod-eps-converted-to.pdf> <./tH_mod-eps-converted-to.pdf> <./displaced
+Tracks.png> <./2017E_detector.pdf> <./higgs.png (PNG copy)> <./higgs2.png> <./t
+tgamma.png>]
 \tf@nav=\write7
 \openout7 = `MasterThesisSubjects.nav'.
 
@@ -2109,36 +2096,33 @@ n.png (PNG copy)>]
 \tf@snm=\write9
 \openout9 = `MasterThesisSubjects.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 93.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 93.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 94.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 94.
  (./MasterThesisSubjects.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 93.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 93.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 94.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 94.
 Package rerunfilecheck Info: File `MasterThesisSubjects.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 93.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 94.
  ) 
 Here is how much of TeX's memory you used:
- 22556 strings out of 493029
- 442561 string characters out of 6136233
- 617949 words of memory out of 5000000
- 25475 multiletter control sequences out of 15000+600000
- 22480 words of font info for 90 fonts, out of 8000000 for 9000
+ 22483 strings out of 493029
+ 441224 string characters out of 6136233
+ 609433 words of memory out of 5000000
+ 25408 multiletter control sequences out of 15000+600000
+ 17495 words of font info for 69 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 56i,14n,73p,531b,975s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbsy10.pfb></u
-sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/sha
-re/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmib10.pfb></usr/share/te
-xlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/t
-exmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-di
-st/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/share/texlive/texmf-dist/fon
-ts/type1/public/amsfonts/cm/cmss17.pfb></usr/share/texlive/texmf-dist/fonts/typ
-e1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/p
-ublic/amsfonts/cm/cmsy10.pfb>
-Output written on MasterThesisSubjects.pdf (1 page, 19105078 bytes).
+ 56i,14n,73p,531b,972s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmib10.pfb></usr/sha
+re/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texl
+ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmss17.pfb></usr/share/texlive/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmssbx10.pfb>
+Output written on MasterThesisSubjects.pdf (1 page, 16993245 bytes).
 PDF statistics:
- 140 PDF objects out of 1000 (max. 8388607)
- 72 compressed objects within 1 object stream
+ 125 PDF objects out of 1000 (max. 8388607)
+ 64 compressed objects within 1 object stream
  3 named destinations out of 1000 (max. 500000)
- 266 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 245 words of extra memory for PDF output out of 10000 (max. 10000000)
 

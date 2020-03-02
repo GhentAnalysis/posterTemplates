@@ -8,160 +8,112 @@
     \def\bottomRowHeightRight{16.5cm}
     \node[anchor=north west, boxStyle, text width=\subjectBoxWidth, anchor=north west, minimum height=\subjectRowHeight] (subjects) at ($(cmsBox.south west)+(0,-1.5)$){
     };
- %   \node[fancytitle, left=\titleOffset] at (subjects.north east) {Thesis subjects 2016-2017};
 
     \node[anchor=north,color=white, text width=70cm] at ($(subjects.north)+(0,-.5)$){
           \small
-          The Ghent CMS team is involved in several analyses at CMS, which include supersymmetry searches, top quark physics, and searches for heavy sterile neutrinos.
+          The Ghent CMS team is involved in several analyses at CMS, which include supersymmetry searches, top quark physics, and searches for heavy neutral leptons.
           Master students are welcome to join in one of our analyses groups where they get the opportunity to explore the large amounts of new data.
           Under the daily supervision of our CMS team, you will acquire the necessary knowledge to identify particles, select the events of interest and to use big data analysis techniques.
           You get the opportunity to gain experience in an international collaboration, and present/discuss results at CERN.
     };
     
-    \node[insideBoxStyle, text width=\subBoxWidth, anchor=north east,minimum height=\topRowHeightLeft] (top) at ($(subjects.north)+(-1,-8)$){
-       {\tiny \\} \hspace{0.5cm}
-       \begin{minipage}{20cm}
-       {\tiny
- The heaviest particle in the Standard Model is the top quark. As such, its properties
-are very sensitive to the existence of new physics beyond the Standard Model. Since it couples so
-strongly to the Higgs boson, a precise determination of its mass as well as its production
-rate (cross section) is an important check on the scalar sector. Top quarks are
-dominantly produced in top-antitop pairs, and produce 0, 1 or two leptons with two
-b-quarks in their decays and missing energy due to neutrinos. The properties of the top quark
-can be measured using any of these decay channels. We propose a subject on measuring
-the rates of top-quark pair production in association with $W$ and $Z$ bosons.}\\
-
-         \begin{itemize}
-     %     \color{white}
-          \tiny
-          \item Precision measurement of top quark pair production in association with $W$ and $Z$ bosons 
-          \item Precision Measurement of single top-quark in association with a $Z$ boson
-         \end{itemize}
-
+    \node[insideBoxStyle, text width=\subBoxWidth, anchor=north east,minimum height=\topRowHeightLeft] (box1) at ($(subjects.north)+(-1,-8)$){
+       \hspace{0.5cm}
+       \scriptsize
+       \begin{minipage}{35cm}
+               \textbf{Search for the flavour-changing neutral Higgs interactions with top quarks at CMS}\\
+       
+       Flavour-changing neutral currents (FCNC) are among the rarest processes in the Standard Model (SM). 
+       The probe of the FCNC interactions of a top quark with a Higgs boson represents an excellent probe of various beyond the SM theories. 
+       The study includes the search for the top quark FCNC decays in the top quark pair production process, 
+       as well as the probe of FCNC effects in the single top associated production with a Higgs boson. 
+       One of the tasks in this analysis is to develop an event selection criteria to identify the FCNC processes 
+       with a potential use of various Machine Learning techniques. 
        \end{minipage}
-       \begin{minipage}{15cm}
-           \hspace{5cm}    \includegraphics[width=9cm]{top.png}
-           \vspace{-1cm} \\
-           \includegraphics[width=15cm]{top2.png} 
-       \end{minipage}
-       \hspace{2mm}
-       \begin{minipage}{12cm}
-         \includegraphics[width=\textwidth]{tZq2.png} 
+       \begin{minipage}{16cm}
+         \begin{center}
+         \includegraphics[width=0.9\textwidth]{tH_ttbar_mod.eps} 
+         \end{center}
        \end{minipage}
        \hspace{5mm}
        \begin{minipage}{20cm}
-       \hspace{5mm}
-         \includegraphics[width=\textwidth]{tZq.png} 
+       \hspace{15mm}
+         \begin{center}
+         \includegraphics[width=0.9\textwidth]{tH_mod.eps} 
+         \end{center}
        \end{minipage}
-
-
-
     };
-    \node[insideFancytitle, left=\insideTitleOffset] at ($(top.north east)+(0,0.5)$){\normalsize Precise measurements in top quark sector}; 
+    \node[insideFancytitle, left=\insideTitleOffset] at ($(box1.north east)+(0,0.5)$){\normalsize Flavour changing neutral currents}; 
    
  
-     \node[insideBoxStyle, text width=\subBoxWidth, anchor=north east,minimum height=\bottomRowHeightLeft] (nn) at ($(top.south east)+(0,-2.5)$){
+     \node[insideBoxStyle, text width=\subBoxWidth, anchor=north east,minimum height=\bottomRowHeightLeft] (box2) at ($(box1.south east)+(0,-2.5)$){
        {\tiny \\} \hspace{0.5cm}
        {\tiny 
-       \begin{minipage}{37cm}
-         While searches for SUSY might be considered as dark matter searches, one can also look for direct production of other possible dark matter candidates, without involving a cascade decay of SUSY particles.
-       \end{minipage}
+             \textbf{Enlightening the top quark: a study of the interaction of a top quark and a photon with the CMS detector}\\
+
+
+    The distinctive properties of the top quark put it in a special place of the Standard Model (SM).
+    A precise study of the strength of the interaction of this particle with other fundamental constituents 
+    represents an important test of the SM predictions. The study of the processes with the production 
+    of a top quark in association with a photon represents a direct probe of the electroweak charge and interaction couplings of the top quark, 
+    as well as provides a handle to search for various new physics effects. 
+    The proposed analysis will cover the study of the kinematic properties of the processes with the production of top quark pairs 
+    with one or more photons in the final state with the CMS detector. 
+    The possible tasks include the study of the photon identification in data, 
+    as well as the development of the event selection criteria exploiting the full event reconstruction. 
+    A potential gain from the use of Machine Learning techniques will also be explored. 
        
        }
-        \begin{figure}
-                           \includegraphics[height=7cm]{bc.jpg}
-                           \hspace{3cm}
-                           \includegraphics[height=7cm]{DMdiagram.png}
-                           \hspace{3cm}
-                           \includegraphics[height=7cm]{dmed2.png}
-
-         \end{figure}
-
-         \begin{itemize}
-         %\color{white}
-          \tiny
-          \item Search for direct dark matter production in top quark pair events
-         \end{itemize}
+               \begin{center}
+         \includegraphics[width=0.3\textwidth]{ttgamma.png} 
+         \end{center}
     };
-   \node[insideFancytitle, left=\insideTitleOffset] at ($(nn.north east)+(0,0.5)$){\normalsize Search for dark matter}; 
+   \node[insideFancytitle, left=\insideTitleOffset] at ($(box2.north east)+(0,0.5)$){\normalsize Interaction of a top quark and a photon}; 
     
     
        
     
-    \node[insideBoxStyle, text width=\subBoxWidth, anchor=north west,minimum height=\topRowHeightRight] (majorana) at ($(subjects.north)+(1,-8)$){
+    \node[insideBoxStyle, text width=\subBoxWidth, anchor=north west,minimum height=\topRowHeightRight] (box3) at ($(subjects.north)+(1,-8)$){
        {\tiny \\}
        \hspace{0.5cm}
-       \begin{minipage}{35cm}
-       {\tiny
- Only a few years ago, the Nobel prize was awarded for the discovery of neutrino oscillations,
-a phenomenon strongly suggesting that neutrinos are in fact massive particles. Several experiments have however constrained this mass to be extremely small, below the eV scale.
-It might be conceived as unnatural that the Higgs mechanism would be responsible
-for their masses as the Yukawa couplings would have to be many orders of magnitude
-smaller than those of the other SM particles. By introducing heavy sterile
-neutrinos, in the SM, the mass of the left-handed neutrino can be pushed down below
-the eV scale while retaining a Yukawa coupling constant similar to those of other SM
-particles. This is known as the see-saw mechanism.
-If they exist in nature, sterile neutrinos might also be searched for in the LHC's
-proton-proton collisions. W bosons, which are copiously produced at the LHC, may
-decay to a heavy sterile neutrino, due to it's coupling to the neutrino, and a charged
-lepton. This leads to characteristic signatures, which can be efficiently distinguished
-from known Standard Model processes. No discovery was made during the LHC Run I, nor with the first data from Run II, collected in 2016 at a center-of-mass energy of 13 TeV. But the increase in integrated luminosity from the 2017 and 2018 data taking, along with refined analysis techniques and the addition of new decay channels of the heavy neutrino, will allow us to expand the horizon of these searches.
-}
-
-        \begin{figure}
-                  \includegraphics[height=7cm]{majoranaDiagram.pdf}
-                  \hspace{3cm}
-                  \includegraphics[height=7cm]{majoranaCartoon.png}
-        \end{figure}
-         \begin{itemize}
-        %  \color{white}
-          \tiny
-          \item Search for heavy sterile neutrinos in dilepton pairs + hadrons, with and without displaced vertices
-          \item Search for heavy sterile neutrinos in 3 prompt lepton final states 
-          \item Search for heavy sterile neutrinos in final states with hadronically decayed taus
-          \item Search for heavy sterile neutrinos in B hadron decays
-         \end{itemize}  
-
-       \end{minipage}
+       {\tiny 
+       \textbf{Rediscovering the Higgs boson at CMS}\\
+        The exact mass generation mechanism still remains to be an open question in particle physics. 
+        The study of the Higgs boson production represents the direct probe of the Higgs boson couplings to other fundamental constituents of nature. 
+        Any deviations in the measured values of these parameters from the SM predictions would directly point to the new physics phenomena. 
+        The study is proposed for the analysis of the CMS detector data to rediscover the Higgs boson in one of its production processes
+        by additionally involving Machine Learning techniques to further boost the final sensitivity in the analysis. 
+       }
+                      \begin{center}
+         \includegraphics[width=0.6\textwidth]{higgs.png} 
+         \end{center}
     };
-    \node[insideFancytitle, left=\insideTitleOffset] at ($(majorana.north east)+(0,0.5)$){\normalsize Searches for heavy sterile neutrinos in W boson decays};
+    \node[insideFancytitle, left=\insideTitleOffset] at ($(box3.north east)+(0,0.5)$){\normalsize Rediscovering the Higgs boson at CMS};
     
     
-   \node[insideBoxStyle, text width=\subBoxWidth, anchor=north west,minimum height=\bottomRowHeightRight] (susy) at ($(majorana.south west)+(0,-2.5)$){
+   \node[insideBoxStyle, text width=\subBoxWidth, anchor=north west,minimum height=\bottomRowHeightRight] (box4) at ($(box3.south west)+(0,-2.5)$){
        {\tiny \\}
         \hspace{0.5cm}
-       \begin{minipage}{23cm}
+        {
         \tiny
-        Among many theories going beyond the standard model is Supersymmetry (SUSY). It can be used to address
-the problem of dark matter, and cure the hierarchy problem that afflicts the SM. SUSY is a spacetime symmetry relating fermions and bosons. In a supersymmetric theory there are an equal number of bosonic and fermionic degrees of freedom which
-naturally leads to cancellations between the divergent mass corrections to the Higgs boson's mass. Every fermion would therefore have a bosonic partner in SUSY models
-and vice versa. To achieve a cancellation of the chiral anomaly arising from
-the fermionic partner of the Higgs, atleast one other scalar doublet is required, leading
-to the presence of 5 or more scalar Higgs bosons. In order to protect
-the proton from decaying, R-parity conservation is introduced, leading to the stability
-of the lightest supersymmetric particle. So the requirement of a stable
-proton can lead to an excellent dark matter candidate in SUSY. \\ \\
-The discovery of supersymmetric particles would mark a revolutionary leap in the field
-of particle physics and our understanding of nature. Several searches, approaching the
-problem from different angles, are proposed.\\
-        \begin{itemize}
-         \tiny
-     %    \color{white}
-         \item Search for supersymmetry in three leptons and missing energy final states
-         \item Search for supersymmetry using same-sign dileptons and missing energy
-         \item Search for the stop, the supersymmetric partner of the top quark
-        \end{itemize}
-       \end{minipage}
-       \begin{minipage}{11cm}
-         \begin{figure}         
-    %      \frame{\includegraphics[width=15cm]{{susylimit}.png}}
-     %     \includegraphics[width=4cm,trim=25 25 25 25,clip]{{iceSusy}.png} \hspace{1cm} 
-          \includegraphics[width=9cm]{bc.jpg} \\
-          \vspace{1cm}
-          \includegraphics[width=9cm]{dmed2.png}
-         \end{figure}        
-       \end{minipage}
+        \textbf{A study of displaced tracking efficiency using neutral kaon decays in the CMS detector}\\
+        The CMS detector at the CERN LHC was designed for the detection and accurate reconstruction of particles 
+        emerging directly from the proton-proton collisions at the detector center. 
+        However, some extensions to the standard model of particle physics include undetectable particles that only 
+        decay to detectable particles at a relatively large distance from the detector center. 
+        The goal of this thesis project is to quantify the efficiency of the CMS detector for this kind of so-called displaced objects, 
+        using a partly data-driven technique. The focus will be on the decay of the neutral K-meson to two charged pions. 
+        Since the K-meson itself is invisible to the inner part of the detector and has a relatively long lifetime, 
+        its decay to two pions yields a similar signature as the exotic `beyond standard model` scenarios one is typically investigating. 
+        Using both simulated events and actual data, we will try to measure the efficiency of CMS for measuring displaced decays and 
+        estimate the uncertainty on this measurement. 
+        }
+                       \begin{center}
+         \includegraphics[width=0.3\textwidth]{displacedTracks.png} 
+                  \includegraphics[width=0.3\textwidth]{2017E_detector.pdf} 
+         \end{center}
+ 
     };
-    \node[insideFancytitle, left=\insideTitleOffset] at ($(susy.north east)+(0,0.5)$){\normalsize Searches for supersymmetry};
+    \node[insideFancytitle, left=\insideTitleOffset] at ($(box4.north east)+(0,0.5)$){\normalsize Tracking};
     
 }
