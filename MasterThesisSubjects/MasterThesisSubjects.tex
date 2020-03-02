@@ -42,7 +42,7 @@
 \renewcommand*{\arraystretch}{1.2}
 
 %Graphics saved in...
-\graphicspath{{figuren/}}
+\graphicspath{{figures/}}
 \setbeamertemplate{itemize items}{\color{black}$\bullet$}
 
 \begin{document}
@@ -68,8 +68,8 @@
 \frame{
   \vspace{-1cm}
   \makebox[\textwidth][c]{\begin{tikzpicture}[show background rectangle, background rectangle/.style={fill=black}]
-    \node[opacity=0.15] (background) at (0,0){\includegraphics[width=150cm]{{background}.jpg}};
-    \node[anchor=south] (LHC) at ($(background.north)-(0,5)$){\includegraphics[width=90cm, trim=0 150 0 100,clip]{{LHC}.jpg}};
+    \node[opacity=0.15] (background) at (0,0){\includegraphics[width=150cm]{{general/background}.jpg}};
+    \node[anchor=south] (LHC) at ($(background.north)-(0,5)$){\includegraphics[width=90cm, trim=0 150 0 100,clip]{{general/LHC}.jpg}};
 
 
     %title
@@ -81,7 +81,7 @@
     
     \input{CmsBox}
    % \input{photonBox}
-    \node[opacity=0.12,anchor=east] (background) at ($(cmsBox.south east)-(3,2)$){\includegraphics[width=20cm]{{DeathStar2}.jpg}};
+    \node[opacity=0.12,anchor=east] (background) at ($(cmsBox.south east)-(3,2)$){\includegraphics[width=20cm]{{general/DeathStar2}.jpg}};
     \input{Subjects}
     \input{UgentBox}
 
